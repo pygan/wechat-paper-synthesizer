@@ -139,12 +139,12 @@
 
 ### 需要客观看待的问题
 
-1. **{critical_point_1_title}**：{critical_point_1_reasoning}{信源出处或「本报告补充」}
-2. **{critical_point_2_title}**：{critical_point_2_reasoning}{信源出处或「本报告补充」}
-3. **{critical_point_3_title}**：{critical_point_3_reasoning}{信源出处或「本报告补充」}
-4. **{critical_point_4_title}**：{critical_point_4_reasoning}{信源出处或「本报告补充」}
-5. **{critical_point_5_title}**：{critical_point_5_reasoning}{信源出处或「本报告补充」}
-6. **{critical_point_6_title}**：{critical_point_6_reasoning}{信源出处或「本报告补充」}
+1. **{critical_point_1_title}**：{critical_point_1_reasoning}（{信源出处}）
+2. **{critical_point_2_title}**：{critical_point_2_reasoning}（{信源出处}）
+3. **{critical_point_3_title}**：{critical_point_3_reasoning}（{信源出处}）
+4. **{critical_point_4_title}**：{critical_point_4_reasoning}（{信源出处}）
+5. **{critical_point_5_title}**：{critical_point_5_reasoning}（{信源出处}）
+6. **{critical_point_6_title}**：{critical_point_6_reasoning}（{信源出处}）
 
 ---
 
@@ -193,6 +193,8 @@
 
 ## 附录 B：解读文章信源
 
-| 序号 | 信源 | 文章标题 | 发表时间 | 性质 | 链接 |
-|------|------|----------|----------|------|------|
-| {source_table_rows} | | | | | {url} |
+> **入选标准**：仅收录正文提取成功的信源。反爬失败、提取不完整、内容不相关的信源不列入附录，相关情况在信源说明 callout 中交代即可。
+
+| 序号 | 作者/账号 | 平台 | 文章标题 | 发表时间 | 性质 | 链接 |
+|------|----------|------|----------|----------|------|------|
+| {source_table_rows} | | | | | | {url} |

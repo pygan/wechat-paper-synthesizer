@@ -24,6 +24,9 @@ env/
 # WorkBuddy
 .workbuddy/
 
+# 使用者信源画像数据（不纳入 git 跟踪）
+references/source_profiles_data.md
+
 # OS
 desktop.ini
 *.log
